@@ -1,0 +1,87 @@
+{"tags": [
+    {
+      "name": "FiraStoreController",
+      "description": "Administra las tiendas, su configuración interna, estadísticas y planes"
+    },
+    {
+      "name": "StreamingCredentials",
+      "description": "streaming-credentials-preprod"
+    },
+    {
+      "name": "FiraUserAuthorizationController",
+      "description": "Gestiona el token de autenticación del sistema"
+    },
+    {
+      "name": "LanguageController",
+      "description": "Administra el listado de idiomas del sistema."
+    },
+    {
+      "name": "CountriesController",
+      "description": "Administra el listado de países del sistema."
+    },
+    {
+      "name": "CalendarController",
+      "description": "Gestiona Calendarios"
+    },
+    {
+      "name": "UploadController",
+      "description": "Gestiona la subida de imágenes de productos, usuarios y tiendas. Integrado con Azure Storage."
+    },
+    {
+      "name": "CurrenciesController",
+      "description": "Administra las monedas del sistema."
+    },
+    {
+      "name": "PolicyController",
+      "description": "Manejo de Politicas de Red5Pro"
+    },
+    {
+      "name": "FiraBroadcastEventController",
+      "description": "Administra la Programacion de Eventos."
+    },
+    {
+      "name": "BadWordsController",
+      "description": "Controlador de Palabras Bloqueadas"
+    },
+    {
+      "name": "PreLoadProductController",
+      "description": "Gestiona la carga masiva de productos y sus Operaciones."
+    },
+    {
+      "name": "FiraChatUserData",
+      "description": "Genera la data de Usuarios en el Chat"
+    },
+    {
+      "name": "GetStreamUsersController",
+      "description": "Controlador de Usuarios"
+    },
+    {
+      "name": "FiraBroadcastEventCredentialsValidator",
+      "description": "RoundTripAuthenticationRed5pro"
+    },
+    {
+      "name": "FiraProductController",
+      "description": "Gestiona los productos, sus costos, importación y sincronización"
+    },
+    {
+      "name": "GetStreamChannelsController",
+      "description": "Controlador de Canales"
+    },
+    {
+      "name": "FiraUserController",
+      "description": "Gestiona los nuevos usuarios, su autenticación, roles y relaciones con el resto del sistema."
+    },
+    {
+      "name": "FiraWebConfigurationController",
+      "description": "Gestiona la creación de la colección FiraWebConfiguration individual"
+    },
+    {
+      "name": "GetStreamBlockListController",
+      "description": "Controlador de Listas de Palabras Bloqueadas"
+    },
+    {
+      "name": "FiraBroadcastRecordingController",
+      "description": "Administra las grabaciones de los eventos"
+    }
+  ]
+}
